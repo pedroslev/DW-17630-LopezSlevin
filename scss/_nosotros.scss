@@ -1,0 +1,33 @@
+
+/* NOSOTROS */
+.form__contactanos{
+    padding-top: 1em;
+    color: white;
+    font-size: 3em;
+}
+
+.form__contacto{
+    padding-top: 2em;
+}
+
+.form__boton--limpiar{
+    background-color: grey;
+    border-color: black;
+}
+
+.form__boton--enviar{
+background-color: grey;
+border-color: black;
+}
+
+.form__boton--limpiar:hover{
+    background-color: red;
+    border-color: black;
+    cursor: pointer;
+}
+
+.form__boton--enviar:hover{
+    background-color: green;
+    border-color: green;
+    cursor: pointer;
+}

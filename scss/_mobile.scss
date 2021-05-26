@@ -1,0 +1,96 @@
+/* MOBILE */
+@media screen and (max-width: 750px) {
+    /* INDEX */
+    .columns__text {
+        display: grid;
+        grid-column-start: 1;
+        min-height: 100px;
+        width: 100%;
+        padding-top: 5em;
+    
+    }
+
+    .columns__phone {
+        display: grid;
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .flexcenter{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+/* INDEX */
+.columns__phone--img{
+    transform: skew(10deg);
+    animation: shake 1s infinite;
+    animation-direction: alternate;
+    width: 250px;
+    padding: 0px;
+}
+/* CURSOS */
+
+/* padding-right: 2em; */
+.video__grid--content{
+    width: 200px;
+    height: 100px;
+    padding-bottom: 1em;
+}
+/* FIN CURSOS */
+
+/* 404 */
+.NotFound{
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding-top: 8em;
+    align-items: center;
+    flex-direction: column;
+    h1{
+        font-size: 1em;
+    }
+    h5{
+        font-size: 0.5em;
+    }
+}
+/* FIN 404 */
+
+
+/* FOOTER */
+    .footer__grider{
+        display: grid;
+        grid-template-columns:100%;
+        grid-template-rows: 0%;
+        padding-top: 5em;
+    }
+
+      .footer__derechos{
+        display: grid;
+        grid-column-start: 1;
+        grid-row-start: 3;
+        a{
+        text-decoration: none !important;
+        color: white;
+        font-size: 0.6em;
+        }
+    }
+    .footer__redes{
+        display: grid;
+        grid-column-start: 1;
+        grid-row-start: 2;
+    }
+    .footer__redes--flex{
+        display: flex;
+        justify-content: center;
+    }
+    .footer__apple{
+        display: grid;
+        grid-column-start: 1;
+        grid-row-start: 1;
+    }
+
+/* FIN FOOTER */
+
+
+  }

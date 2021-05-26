@@ -1,0 +1,42 @@
+/* FOOTER GENERICO */
+.footer__grider{
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    grid-template-rows: 0%;
+    padding-top: 5em;
+}
+
+.footer__redes{
+    display: grid;
+    grid-column-start: 3;
+    grid-row-start: 3;
+}
+
+.footer__derechos{
+    display: grid;
+    grid-column-start: 1;
+    grid-row-start: 3;
+
+    a{
+        text-decoration: none !important;
+        color: white;
+        font-size: 0.9em;
+    }
+}
+
+
+.footer__apple{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 0;
+}
+
+.footer__apple--flex{
+display: flex;
+justify-content: center;
+}
+
+.footer__redes--flex{
+    display: flex;
+    justify-content: flex-end;
+}

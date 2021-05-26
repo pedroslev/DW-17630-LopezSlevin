@@ -1,0 +1,66 @@
+/* INDEX */
+.AnimationWriting{
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto; 
+    letter-spacing: .30em; 
+    font-style: bold;
+    animation: 
+      typing 2s steps(40, end),
+      blink-caret .15s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color:transparent; }
+  }
+
+.grider{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+}
+
+.columns__text {
+    display: grid;
+    grid-column-start: 1;
+    min-height: 100px;
+    width: 100%;
+    padding-top: 15em;
+    
+
+}
+
+.columns__phone {
+    display: grid;
+    grid-column-start: 2;
+    min-height: 100px;
+    width: 100%;
+    padding-top: 10em;
+    
+}
+
+.columns__phone--img{
+    transform: skew(10deg);
+    animation: shake 1s infinite;
+    animation-direction: alternate;
+}
+
+@keyframes shake {
+    0% {
+      transform: skewY(-10deg);
+    }
+    100% {
+      transform: skewY(10deg);
+    }
+  }
+
+.flexcenter{
+    display: flex;
+    justify-content: center;
+}

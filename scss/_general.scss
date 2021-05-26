@@ -1,0 +1,20 @@
+@import 'variables.scss';
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: $background;
+    font-family: $font;
+    font-style: normal;
+}
+
+h1 , p {
+    color: white;
+    font-weight: 300;
+}
+
+.transparent-back {
+    background: transparent;
+}

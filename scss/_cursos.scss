@@ -1,0 +1,20 @@
+
+/* CURSOS */
+.video__grid{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 2em;
+}
+
+.video__grid--content{
+padding-right: 1em;
+}
+
+.AprendeMas{
+    color: white;
+    font-size: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-decoration: underline;
+}
