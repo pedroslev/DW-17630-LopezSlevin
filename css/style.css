@@ -77,7 +77,7 @@ h1, p {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
-  padding-top: 5em; }
+  padding-top: 4em; }
 
 /* MONEDAS */
 .MonedasTitulo {
@@ -93,7 +93,7 @@ h1, p {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
-  padding-top: 2em; }
+  padding-top: 0em; }
 
 .video__grid--content {
   padding-right: 1em; }
@@ -102,7 +102,17 @@ h1, p {
   color: white;
   font-size: 3em;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 1em; }
+
+.CarouselText {
+  display: flex;
+  justify-content: center;
+  padding-top: 1.5em;
+  text-decoration: underline;
+  color: white; }
+
+.VideoTitulo {
+  color: white;
   text-decoration: underline; }
 
 /* NOSOTROS */
@@ -206,6 +216,10 @@ h1, p {
     width: 200px;
     height: 100px;
     padding-bottom: 1em; }
+  .VideoTitulo {
+    font-size: 0.8em; }
+  .CarouselText {
+    font-size: 0.8em; }
   /* FIN CURSOS */
   /* 404 */
   .NotFound {

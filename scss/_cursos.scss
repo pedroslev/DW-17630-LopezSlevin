@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    padding-top: 2em;
+    padding-top: 0em;
 }
 
 .video__grid--content{
@@ -16,5 +16,17 @@ padding-right: 1em;
     font-size: 3em;
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+.CarouselText{
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5em;
+    text-decoration: underline;
+    color: white;
+}
+
+.VideoTitulo{
+    color: white;
     text-decoration: underline;
 }
