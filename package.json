@@ -1,7 +1,7 @@
 {
-  "name": "cryptoeye-scss",
+  "name": "cryptoeye",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina Oficial de CryptoEye, aplicacion mentora de trading",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
