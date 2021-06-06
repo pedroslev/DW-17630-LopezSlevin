@@ -8,7 +8,7 @@
 
 - [Live](https://plshazer.github.io/CryptoEyeLopezSlevin/ "Live View")
 
-- [Bugs](https://github.com/plshazer/CryptoEyeLopezSlevin/issues "Issues Page")
+- [Issues](https://github.com/plshazer/CryptoEyeLopezSlevin/issues "Issues Page")
 
 
 
