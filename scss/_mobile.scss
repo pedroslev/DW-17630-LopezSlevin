@@ -38,8 +38,13 @@
     padding-bottom: 1em;
 }
 
+.AprendeMas{
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
 .VideoTitulo{
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 .CarouselText{
@@ -95,7 +100,8 @@
     .footer__apple{
         display: grid;
         grid-column-start: 1;
-        grid-row-start: 1;
+        grid-row-start: 2;
+        padding-right: 1.5em;
     }
 
 /* FIN FOOTER */

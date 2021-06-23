@@ -1,4 +1,3 @@
-
 /* CURSOS */
 .video__grid{
     display: flex;
@@ -13,15 +12,17 @@ padding-right: 1em;
 
 .AprendeMas{
     color: white;
-    font-size: 3em;
+    font-size: 1.5em;
     padding-top: 1em;
     padding-bottom: 1em;
+    text-decoration: underline;
 }
 
 .CarouselText{
     display: flex;
     justify-content: center;
     padding-top: 1.5em;
+    font-size: 0.8em;
     text-decoration: underline;
     color: white;
 }
@@ -29,4 +30,5 @@ padding-right: 1em;
 .VideoTitulo{
     color: white;
     text-decoration: underline;
+    font-size: 1em;
 }

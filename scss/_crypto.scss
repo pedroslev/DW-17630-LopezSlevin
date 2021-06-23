@@ -9,3 +9,14 @@
     flex-direction: column;
     padding-top: 4em;
 }
+
+.Graph{
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: center;
+    align-self: flex-end;
+}
+
+.Spacing{
+    padding-bottom: 5em;
+}
