@@ -12,7 +12,19 @@
 
 - [Issues](https://github.com/plshazer/CryptoEyeLopezSlevin/issues "Issues Page")
 
-
+## Requerimientos del proyecto
+- Prototipado
+- Listas ordenadas y desordenadas (ul / ol) -> Seccion "¿Qué es Crypto Eye?"
+- Framework -> Bootstrap CSS y JS
+- Uso de CSS / SASS
+- Uso de metodos y herramientas Grid y Flexbox
+- Carousel -> Seccion "Aprende Más"
+- Animaciones, transformaciones y/0 transiciones -> Seccion "Inicio"
+- Tablas -> Seccion "Monedas"
+- Aplicacion de SEO en todo el sitio web
+- Uso de Git
+- Hipervinculos
+- Formularios -> Seccion "Contáctanos"
 
 ## Comandos
 
