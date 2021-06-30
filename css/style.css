@@ -59,6 +59,10 @@ h1, p {
   animation: shake 1s infinite;
   animation-direction: alternate; }
 
+.IphoneBanner {
+  padding-top: 8em;
+  padding-left: 7em; }
+
 @keyframes shake {
   0% {
     transform: skewY(-10deg); }
@@ -129,7 +133,7 @@ h1, p {
 
 /* NOSOTROS */
 .form__contactanos {
-  padding-top: 1em;
+  padding-top: 2em;
   color: white;
   font-size: 3em; }
 
@@ -223,6 +227,8 @@ h1, p {
     animation-direction: alternate;
     width: 250px;
     padding: 0px; }
+  .IphoneBanner {
+    display: none; }
   /* CURSOS */
   /* padding-right: 2em; */
   .video__grid--content {
@@ -236,6 +242,8 @@ h1, p {
     font-size: 1em; }
   .CarouselText {
     font-size: 0.8em; }
+  .CarouselFlow {
+    font-size: 0.5em; }
   /* FIN CURSOS */
   /* 404 */
   .NotFound {
@@ -285,4 +293,6 @@ h1, p {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-bottom: 2em; } }
+    padding-bottom: 2em; }
+  .IphoneBanner {
+    display: none; } }
