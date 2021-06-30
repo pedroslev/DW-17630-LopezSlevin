@@ -6,6 +6,8 @@
 
 - [Repo]( https://github.com/plshazer/CryptoEyeLopezSlevin "<project-name> Repo")
 
+- [VS Code View](https://github1s.com/plshazer/CryptoEyeLopezSlevin "VS Code View")
+
 - [Live](https://plshazer.github.io/CryptoEyeLopezSlevin/ "Live View")
 
 - [Issues](https://github.com/plshazer/CryptoEyeLopezSlevin/issues "Issues Page")
