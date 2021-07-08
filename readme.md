@@ -14,17 +14,18 @@
 
 ## Requerimientos del proyecto
 - Prototipado
-- Listas ordenadas y desordenadas (ul / ol) -> Seccion "¿Qué es Crypto Eye?"
-- Framework -> Bootstrap CSS y JS
+- Mockup
+- Listas ordenadas y desordenadas
+- Frameworks
 - Uso de CSS / SASS
 - Uso de metodos y herramientas Grid y Flexbox
-- Carousel -> Seccion "Aprende Más"
+- Carousel
 - Animaciones, transformaciones y/0 transiciones -> Seccion "Inicio"
-- Tablas -> Seccion "Monedas"
+- Tablas
 - Aplicacion de SEO en todo el sitio web
 - Uso de Git
 - Hipervinculos
-- Formularios -> Seccion "Contáctanos"
+- Formularios
 
 ## Comandos
 
@@ -44,7 +45,7 @@ Esto validara la estructura escrita en scss y ejecutara scss para pasarlo al arc
 
 **Pedro Lopez Slevin**
 
-- [Profile](https://github.com/plshazer/CryptoEyeLopezSlevin/issues "Pedro Lopez Slevin")
+- [Profile](https://github.com/plshazer "Pedro Lopez Slevin")
 
 ## 🤝 Support
 
