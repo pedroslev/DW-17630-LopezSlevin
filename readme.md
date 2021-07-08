@@ -1,6 +1,6 @@
-<h1 align="center">CryptoEye</h1>
+<h1 align="center">JS-16800-LopezSlevin</h1>
 
-<p align="center">Pagina Oficial de CryptoEye, aplicacion mentora de trading</p>
+<p align="center">Repositorio del curso de Desarrollo Web de Coderhouse - Camada N17630</p>
 
 ## Links
 
